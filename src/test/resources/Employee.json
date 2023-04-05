@@ -1,0 +1,12 @@
+{
+"name" : "Bala",
+"email": "bala@gmail.com",
+"mobno":8796532148,
+"address":{
+"street": "sakthi nagar",
+"district": "chennai",
+"state":"TN"
+
+}
+
+}
